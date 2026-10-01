@@ -92,9 +92,5 @@ for item in INGESTION_CONFIG:
 
 # COMMAND ----------
 
-
-
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC
