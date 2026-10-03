@@ -12,7 +12,7 @@ Tasklist
 - Illustrate and upload architecture (DONE)
 - Clean datasets to Silver
 - Create data model (star schema) >>> 1 fast file + 2-3 dimension files
-- Perhaps explore other data models
+- Automate the data processing with jobs
 - Create visualizations
 - Perhaps do sales forecasting
 
