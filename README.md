@@ -10,9 +10,10 @@ My thoughts so far
 
 Tasklist
 - Illustrate and upload architecture (DONE)
-- Clean datasets to Silver
-- Create data model (star schema) >>> 1 fast file + 2-3 dimension files
-- Automate the data processing with jobs
+- Clean CRM datasets to Silver (DONE)
+- Clean ERP datasets to Silver (WIP)
+- Create data model (star schema) >>> 1 fast file + 2-5 dimension files
+- Automate the data pipeline with jobs
 - Create visualizations
 - Perhaps do sales forecasting
 
