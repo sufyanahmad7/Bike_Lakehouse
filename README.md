@@ -9,18 +9,18 @@ My thoughts / reflection so far
 - As data engineer working in a project, my role is to pull the required data (single or multiple sources) and get it ready for downstream users' (business user / data analyst / data scientist / AI engineer) consumption.
 
 My thought process in dealing with blanks and NULLS
-- crm_customers
+- crm_customers: 
   Rows with empty customer_ID have been removed as creation_date is also empty.
   Marital_Status and Customer_Gender had some missing fields but were not excluded as they have a Creation_Date and counts for a valid data point.
-- crm_product
+- crm_product: 
   Product_Cost, Product_Line and Product_End_Date have a few nulls. I included everything in as data integrity is not compromised.
-- crm_sales
+- crm_sales: 
   There weren't many blanks and NULLS. I included everything as data integrity is not compromised.
-- erp_customer
+- erp_customer: 
   Some blanks and NULLS but I included everything as data integrity is not compromised.
-- erp_locations
+- erp_locations: 
   Some blanks and NULLS but I included everything as data integrity is not compromised.
-- erp_categories
+- erp_categories: 
   Perfect dataset with 0 blanks and NULLS. Hence, everything is included.
 
 Tasklist
