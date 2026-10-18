@@ -10,18 +10,18 @@ My thoughts / reflection so far
 
 My thought process in dealing with blanks and NULLS
 - crm_customers
--   Rows with empty customer_ID have been removed as creation_date is also empty.
--   Marital_Status and Customer_Gender had some missing fields but were not excluded as they have a Creation_Date and counts for a valid data point.
+  Rows with empty customer_ID have been removed as creation_date is also empty.
+  Marital_Status and Customer_Gender had some missing fields but were not excluded as they have a Creation_Date and counts for a valid data point.
 - crm_product
--   Product_Cost, Product_Line and Product_End_Date have a few nulls. I included everything in as data integrity is not compromised.
+  Product_Cost, Product_Line and Product_End_Date have a few nulls. I included everything in as data integrity is not compromised.
 - crm_sales
--   There weren't many blanks and NULLS. I included everything as data integrity is not compromised.
+  There weren't many blanks and NULLS. I included everything as data integrity is not compromised.
 - erp_customer
--   Some blanks and NULLS but I included everything as data integrity is not compromised.
+  Some blanks and NULLS but I included everything as data integrity is not compromised.
 - erp_locations
--   Some blanks and NULLS but I included everything as data integrity is not compromised.
+  Some blanks and NULLS but I included everything as data integrity is not compromised.
 - erp_categories
--   Perfect dataset with 0 blanks and NULLS. Hence, everything is included.
+  Perfect dataset with 0 blanks and NULLS. Hence, everything is included.
 
 Tasklist
 - Illustrate and upload architecture (DONE)
