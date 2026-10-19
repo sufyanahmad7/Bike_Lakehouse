@@ -27,7 +27,7 @@ Tasklist
 - Illustrate and upload architecture (DONE)
 - Clean CRM datasets to Silver (DONE)
 - Clean ERP datasets to Silver (DONE)
-- Create data model (star schema) >>> 1 fast file + 2-5 dimension files
+- Create data model (star schema) >>> 1 fast file + 2 dimension files (DONE)
 - Automate the data pipeline with jobs
 - Create visualizations
 - Perhaps do sales forecasting
