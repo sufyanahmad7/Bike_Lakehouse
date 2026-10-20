@@ -28,7 +28,7 @@ Tasklist
 - Clean CRM datasets to Silver (DONE)
 - Clean ERP datasets to Silver (DONE)
 - Create data model (star schema) >>> 1 fast file + 2 dimension files (DONE)
-- Automate the data pipeline with jobs
+- Set up orchestration (DONE)
 - Create visualizations
 - Perhaps do sales forecasting
 
